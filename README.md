@@ -22,7 +22,8 @@ Method 1 :
 Method 2 :
 
   Step 1 : Download the "Activator.cmd" or 
-           go to https://github.com/mathinraj/msoffice and slide over the dropdown menu and click download as zip.
+           go to https://github.com/mathinraj/msoffice and slide over the code menu and click download as zip.
+           (use desktop site)
            
   Step 2 : Extract the zip file.
   
