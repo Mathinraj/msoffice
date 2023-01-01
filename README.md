@@ -1,6 +1,5 @@
-# msoffice
+# Microsoft Office
 
-Here i have added a code to activate the MS Office .
 
 Method 1 :
 
